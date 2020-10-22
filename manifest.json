@@ -5,33 +5,33 @@
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "IPTV Плейлисты M3U 2020, Российских и Украинских каналов.",
+  "description": "IPTV Плейлисты M3U 2020, Российских и Украинских телеканалов.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s48/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s48/links.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s72/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s72/links.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s96/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s96/links.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s144/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s144/links.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s168/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s168/links.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s192/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s192/links.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gE6MQaBpJ0k/X4qHlRs5kOI/AAAAAAAAAfM/q-KqtD10LY4P-XjivS_Vrik7Ziipy3YggCLcBGAsYHQ/s512/S-512.png",
+    "src": "https://1.bp.blogspot.com/-IAGHuyyV-4k/X5FCsSqCJLI/AAAAAAAAAh0/Qe9N9DU1dlQqoQrAwBslEKKFKm0CULtRwCLcBGAsYHQ/s512/links.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
